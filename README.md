@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Obenji
+# 👋 Hi, I'm Oben
 
 🚀 Software Engineer | Backend & Full-Stack Developer  
 🎓 5+ Years in IT Support | 2 Years in Software Development | 1 Year as a Tech Educator  
