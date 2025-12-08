@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, PHP, JavaScript,css
+- **Languages:** Java, PHP, JavaScript,css.c.
 - **Frameworks:** Spring Boot, Symfony, React
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Maven, Postman, Docker (basic), Agile
